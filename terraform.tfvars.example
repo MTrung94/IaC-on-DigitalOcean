@@ -1,0 +1,5 @@
+do_token            = "dop_v1_your_digitalocean_api_token_here"
+region              = "sgp1"
+droplet_size        = "s-1vcpu-1gb"
+droplet_image       = "ubuntu-22-04-x64"
+ssh_public_key_path = "~/.ssh/id_rsa.pub"
